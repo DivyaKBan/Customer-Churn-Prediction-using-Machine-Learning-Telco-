@@ -1,0 +1,2 @@
+# Customer-Churn-Prediction-using-Machine-Learning-Telco-
+This project implements a Customer Churn Prediction system using machine learning techniques. The dataset used is the Telco Customer Churn. The project includes data preprocessing, exploratory data analysis, feature encoding, handling class imbalance using SMOTE, and model training using Decision Tree, Random Forest, and XGBoost classifiers.
